@@ -5,10 +5,10 @@
 <div align="center">
   <!--[![GitHub Streak](https://streak-stats.demolab.com?user=hayoung-selina-lee&theme=midnight-purple)](https://git.io/streak-stats) -->
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoung-selina-lee&exclude_repo=hayoung-selina-lee.github.io&layout=compact&theme=tokyonight" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoung-selina-lee&exclude_repo=hayoung-selina-lee.github.io&layout=compact&theme=tokyonight" height="150px"/>
   </a>
   <a href="s">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayoung-selina-lee&theme=tokyonight" height="180px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayoung-selina-lee&theme=tokyonight" height="150px"/>
   </a>
 </div>
 
